@@ -1,2 +1,2 @@
 # Lokh_sabha_BI_dashboard
-![Demo Classification Image 1](dashboard_image.png)
+![Dashboard image](dashboard_image.png)
